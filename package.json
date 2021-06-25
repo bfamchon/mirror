@@ -1,0 +1,9 @@
+{
+  "name": "mirror",
+  "version": "1.0.0",
+  "description": "Confortable way of writing constants with same key/value",
+  "main": "index.js",
+  "scripts": {},
+  "author": "bfamchon",
+  "license": "MIT"
+}
