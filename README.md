@@ -30,7 +30,3 @@ const ActionTypes = mirror([
 console.log(ActionTypes.MY_DOMAIN_FETCH_REQUEST); // 'MY_DOMAIN_FETCH_REQUEST'
 
 ```
-
-## Install
-
-`npm i mirror`
